@@ -1,4 +1,4 @@
-# 🚧 Pothole-Detection-and-Anaysis-Using-Machine-Learning-and-Image-Processing
+# 🚧 Pothole-Detection-and-Anaysis-With-Machine-Learning-and-Image-Processing
 
 ## Overview
 
@@ -33,14 +33,14 @@ This project is an advanced computer vision system that detects, tracks, and ana
 
 ```bash
 # Clone repository
-git clone https://github.com/FaisalAhmed21/Pothole-Detection-System-Using-Machine-Learning-and-Image-Processing.git
-cd Pothole-Detection-System-Using-Machine-Learning-and-Image-Processing
+git clone https://github.com/FaisalAhmed21/Pothole-Detection-System-With-Machine-Learning-and-Image-Processing.git
+cd Pothole-Detection-System-With-Machine-Learning-and-Image-Processing
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Download pretrained model
-wget https://github.com/FaisalAhmed21/Pothole-Detection-System-Using-Machine-Learning-and-Image-Processing/releases/download/v1.0/best_02.pt
+wget https://github.com/FaisalAhmed21/Pothole-Detection-System-With-Machine-Learning-and-Image-Processing/releases/download/v1.0/best_02.pt
 ```
 
 ## Usage
