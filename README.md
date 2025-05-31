@@ -47,7 +47,7 @@ wget https://github.com/FaisalAhmed21/Pothole-Detection-System-Using-Machine-Lea
 
 ```bash
 # Run the pothole detection system
-python pothole_detection.py
+python test.py
 ```
 
 ## Controls
