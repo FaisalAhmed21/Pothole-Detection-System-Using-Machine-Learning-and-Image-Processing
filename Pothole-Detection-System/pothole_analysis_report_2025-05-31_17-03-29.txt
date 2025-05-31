@@ -1,0 +1,616 @@
+================================================================================
+POTHOLE DETECTION ANALYSIS REPORT
+Generated on: 2025-05-31 17:03:29
+================================================================================
+
+VIDEO INFORMATION
+--------------------------------------------------------------------------------
+Filename: p.mp4
+Duration: 27.68 seconds
+Frames analyzed: 230
+Model used: YOLOv8-seg (best_02.pt)
+
+SUMMARY STATISTICS
+--------------------------------------------------------------------------------
+Total unique potholes detected: 82
+Pothole size distribution:
+  - Small: 25
+  - Medium: 32
+  - Large: 25
+
+Risk level distribution:
+  - Low risk: 25
+  - Medium risk: 31
+  - High risk: 26
+
+Average pothole area: 12134.21 square pixels
+Overall road condition severity rating (0-10): 5.1
+
+HOTSPOT ANALYSIS
+--------------------------------------------------------------------------------
+Identified 623 hotspot areas:
+  1. Location: x=247, y=220 - 54 potholes
+  2. Location: x=231, y=246 - 54 potholes
+  3. Location: x=240, y=231 - 53 potholes
+  4. Location: x=197, y=216 - 51 potholes
+  5. Location: x=191, y=222 - 51 potholes
+
+DETAILED POTHOLE INFORMATION
+--------------------------------------------------------------------------------
+Pothole #1 (ID: 5):
+  - Size: Large
+  - Area: 37700.00 pixels
+  - Risk: High
+  - Position: x=378, y=439
+  - Frames visible: -1
+
+Pothole #2 (ID: 1):
+  - Size: Large
+  - Area: 27834.00 pixels
+  - Risk: High
+  - Position: x=153, y=409
+  - Frames visible: -1
+
+Pothole #3 (ID: 3):
+  - Size: Large
+  - Area: 21007.00 pixels
+  - Risk: High
+  - Position: x=108, y=415
+  - Frames visible: -1
+
+Pothole #4 (ID: 0):
+  - Size: Large
+  - Area: 27821.50 pixels
+  - Risk: High
+  - Position: x=189, y=462
+  - Frames visible: -1
+
+Pothole #5 (ID: 6):
+  - Size: Large
+  - Area: 16269.00 pixels
+  - Risk: High
+  - Position: x=48, y=461
+  - Frames visible: -1
+
+Pothole #6 (ID: 13):
+  - Size: Large
+  - Area: 15639.00 pixels
+  - Risk: High
+  - Position: x=134, y=364
+  - Frames visible: -1
+
+Pothole #7 (ID: 26):
+  - Size: Large
+  - Area: 38315.00 pixels
+  - Risk: High
+  - Position: x=178, y=418
+  - Frames visible: -1
+
+Pothole #8 (ID: 31):
+  - Size: Large
+  - Area: 15426.00 pixels
+  - Risk: High
+  - Position: x=366, y=332
+  - Frames visible: -1
+
+Pothole #9 (ID: 28):
+  - Size: Large
+  - Area: 27705.00 pixels
+  - Risk: High
+  - Position: x=373, y=390
+  - Frames visible: -1
+
+Pothole #10 (ID: 19):
+  - Size: Large
+  - Area: 35892.50 pixels
+  - Risk: High
+  - Position: x=400, y=458
+  - Frames visible: -1
+
+Pothole #11 (ID: 23):
+  - Size: Large
+  - Area: 16230.00 pixels
+  - Risk: High
+  - Position: x=312, y=469
+  - Frames visible: -1
+
+Pothole #12 (ID: 4):
+  - Size: Large
+  - Area: 19263.50 pixels
+  - Risk: High
+  - Position: x=37, y=432
+  - Frames visible: -1
+
+Pothole #13 (ID: 33):
+  - Size: Large
+  - Area: 28263.50 pixels
+  - Risk: High
+  - Position: x=162, y=435
+  - Frames visible: -1
+
+Pothole #14 (ID: 41):
+  - Size: Large
+  - Area: 42652.00 pixels
+  - Risk: High
+  - Position: x=408, y=450
+  - Frames visible: -1
+
+Pothole #15 (ID: 48):
+  - Size: Large
+  - Area: 26713.50 pixels
+  - Risk: High
+  - Position: x=382, y=447
+  - Frames visible: -1
+
+Pothole #16 (ID: 45):
+  - Size: Medium
+  - Area: 12251.00 pixels
+  - Risk: High
+  - Position: x=775, y=302
+  - Frames visible: -1
+
+Pothole #17 (ID: 56):
+  - Size: Large
+  - Area: 52968.00 pixels
+  - Risk: High
+  - Position: x=116, y=465
+  - Frames visible: -1
+
+Pothole #18 (ID: 53):
+  - Size: Large
+  - Area: 17678.50 pixels
+  - Risk: High
+  - Position: x=285, y=447
+  - Frames visible: -1
+
+Pothole #19 (ID: 55):
+  - Size: Large
+  - Area: 24687.50 pixels
+  - Risk: High
+  - Position: x=61, y=438
+  - Frames visible: -1
+
+Pothole #20 (ID: 65):
+  - Size: Large
+  - Area: 25119.50 pixels
+  - Risk: High
+  - Position: x=546, y=470
+  - Frames visible: -1
+
+Pothole #21 (ID: 62):
+  - Size: Large
+  - Area: 27027.00 pixels
+  - Risk: High
+  - Position: x=126, y=296
+  - Frames visible: 3
+
+Pothole #22 (ID: 68):
+  - Size: Large
+  - Area: 33414.50 pixels
+  - Risk: High
+  - Position: x=663, y=459
+  - Frames visible: 17
+
+Pothole #23 (ID: 71):
+  - Size: Large
+  - Area: 33580.00 pixels
+  - Risk: High
+  - Position: x=106, y=440
+  - Frames visible: 9
+
+Pothole #24 (ID: 72):
+  - Size: Large
+  - Area: 18299.50 pixels
+  - Risk: High
+  - Position: x=621, y=380
+  - Frames visible: 26
+
+Pothole #25 (ID: 73):
+  - Size: Large
+  - Area: 16787.50 pixels
+  - Risk: High
+  - Position: x=111, y=362
+  - Frames visible: 7
+
+Pothole #26 (ID: 79):
+  - Size: Large
+  - Area: 24343.50 pixels
+  - Risk: High
+  - Position: x=562, y=470
+  - Frames visible: 29
+
+Pothole #27 (ID: 10):
+  - Size: Medium
+  - Area: 5873.00 pixels
+  - Risk: Medium
+  - Position: x=732, y=355
+  - Frames visible: -1
+
+Pothole #28 (ID: 8):
+  - Size: Medium
+  - Area: 6160.00 pixels
+  - Risk: Medium
+  - Position: x=584, y=467
+  - Frames visible: -1
+
+Pothole #29 (ID: 9):
+  - Size: Medium
+  - Area: 6652.50 pixels
+  - Risk: Medium
+  - Position: x=758, y=471
+  - Frames visible: -1
+
+Pothole #30 (ID: 7):
+  - Size: Medium
+  - Area: 10783.50 pixels
+  - Risk: Medium
+  - Position: x=782, y=322
+  - Frames visible: -1
+
+Pothole #31 (ID: 18):
+  - Size: Medium
+  - Area: 5513.00 pixels
+  - Risk: Medium
+  - Position: x=676, y=462
+  - Frames visible: -1
+
+Pothole #32 (ID: 12):
+  - Size: Medium
+  - Area: 11051.50 pixels
+  - Risk: Medium
+  - Position: x=73, y=354
+  - Frames visible: -1
+
+Pothole #33 (ID: 22):
+  - Size: Medium
+  - Area: 5019.50 pixels
+  - Risk: Medium
+  - Position: x=196, y=268
+  - Frames visible: -1
+
+Pothole #34 (ID: 25):
+  - Size: Medium
+  - Area: 7906.50 pixels
+  - Risk: Medium
+  - Position: x=156, y=311
+  - Frames visible: -1
+
+Pothole #35 (ID: 32):
+  - Size: Medium
+  - Area: 11843.00 pixels
+  - Risk: Medium
+  - Position: x=267, y=394
+  - Frames visible: -1
+
+Pothole #36 (ID: 20):
+  - Size: Medium
+  - Area: 7542.00 pixels
+  - Risk: Medium
+  - Position: x=766, y=268
+  - Frames visible: -1
+
+Pothole #37 (ID: 34):
+  - Size: Medium
+  - Area: 7510.50 pixels
+  - Risk: Medium
+  - Position: x=530, y=464
+  - Frames visible: -1
+
+Pothole #38 (ID: 30):
+  - Size: Medium
+  - Area: 14310.50 pixels
+  - Risk: Medium
+  - Position: x=79, y=363
+  - Frames visible: -1
+
+Pothole #39 (ID: 38):
+  - Size: Medium
+  - Area: 5011.50 pixels
+  - Risk: Medium
+  - Position: x=579, y=312
+  - Frames visible: -1
+
+Pothole #40 (ID: 43):
+  - Size: Medium
+  - Area: 10015.00 pixels
+  - Risk: Medium
+  - Position: x=658, y=386
+  - Frames visible: -1
+
+Pothole #41 (ID: 44):
+  - Size: Medium
+  - Area: 8556.50 pixels
+  - Risk: Medium
+  - Position: x=774, y=461
+  - Frames visible: -1
+
+Pothole #42 (ID: 49):
+  - Size: Medium
+  - Area: 7983.50 pixels
+  - Risk: Medium
+  - Position: x=610, y=363
+  - Frames visible: -1
+
+Pothole #43 (ID: 46):
+  - Size: Medium
+  - Area: 10704.50 pixels
+  - Risk: Medium
+  - Position: x=708, y=456
+  - Frames visible: -1
+
+Pothole #44 (ID: 51):
+  - Size: Medium
+  - Area: 5275.50 pixels
+  - Risk: Medium
+  - Position: x=92, y=235
+  - Frames visible: -1
+
+Pothole #45 (ID: 54):
+  - Size: Medium
+  - Area: 8025.50 pixels
+  - Risk: Medium
+  - Position: x=54, y=325
+  - Frames visible: -1
+
+Pothole #46 (ID: 57):
+  - Size: Medium
+  - Area: 13750.00 pixels
+  - Risk: Medium
+  - Position: x=761, y=329
+  - Frames visible: -1
+
+Pothole #47 (ID: 60):
+  - Size: Medium
+  - Area: 5549.00 pixels
+  - Risk: Medium
+  - Position: x=774, y=333
+  - Frames visible: -1
+
+Pothole #48 (ID: 59):
+  - Size: Medium
+  - Area: 6411.00 pixels
+  - Risk: Medium
+  - Position: x=296, y=310
+  - Frames visible: -1
+
+Pothole #49 (ID: 61):
+  - Size: Medium
+  - Area: 11071.50 pixels
+  - Risk: Medium
+  - Position: x=501, y=368
+  - Frames visible: -1
+
+Pothole #50 (ID: 67):
+  - Size: Medium
+  - Area: 6334.00 pixels
+  - Risk: Medium
+  - Position: x=210, y=404
+  - Frames visible: -1
+
+Pothole #51 (ID: 63):
+  - Size: Medium
+  - Area: 8277.50 pixels
+  - Risk: Medium
+  - Position: x=143, y=486
+  - Frames visible: -1
+
+Pothole #52 (ID: 64):
+  - Size: Medium
+  - Area: 8786.50 pixels
+  - Risk: Medium
+  - Position: x=202, y=445
+  - Frames visible: -1
+
+Pothole #53 (ID: 69):
+  - Size: Medium
+  - Area: 7044.00 pixels
+  - Risk: Medium
+  - Position: x=523, y=304
+  - Frames visible: 16
+
+Pothole #54 (ID: 75):
+  - Size: Medium
+  - Area: 12139.00 pixels
+  - Risk: Medium
+  - Position: x=470, y=305
+  - Frames visible: 23
+
+Pothole #55 (ID: 78):
+  - Size: Medium
+  - Area: 7327.50 pixels
+  - Risk: Medium
+  - Position: x=460, y=315
+  - Frames visible: 23
+
+Pothole #56 (ID: 80):
+  - Size: Medium
+  - Area: 12620.00 pixels
+  - Risk: Medium
+  - Position: x=515, y=467
+  - Frames visible: 29
+
+Pothole #57 (ID: 81):
+  - Size: Medium
+  - Area: 6061.50 pixels
+  - Risk: Medium
+  - Position: x=547, y=471
+  - Frames visible: 29
+
+Pothole #58 (ID: 11):
+  - Size: Small
+  - Area: 4786.50 pixels
+  - Risk: Low
+  - Position: x=552, y=404
+  - Frames visible: -1
+
+Pothole #59 (ID: 14):
+  - Size: Small
+  - Area: 742.00 pixels
+  - Risk: Low
+  - Position: x=697, y=222
+  - Frames visible: -1
+
+Pothole #60 (ID: 2):
+  - Size: Small
+  - Area: 4277.50 pixels
+  - Risk: Low
+  - Position: x=35, y=329
+  - Frames visible: -1
+
+Pothole #61 (ID: 17):
+  - Size: Small
+  - Area: 1124.50 pixels
+  - Risk: Low
+  - Position: x=542, y=288
+  - Frames visible: -1
+
+Pothole #62 (ID: 15):
+  - Size: Small
+  - Area: 2989.50 pixels
+  - Risk: Low
+  - Position: x=626, y=397
+  - Frames visible: -1
+
+Pothole #63 (ID: 21):
+  - Size: Small
+  - Area: 1874.50 pixels
+  - Risk: Low
+  - Position: x=23, y=238
+  - Frames visible: -1
+
+Pothole #64 (ID: 24):
+  - Size: Small
+  - Area: 2586.00 pixels
+  - Risk: Low
+  - Position: x=730, y=435
+  - Frames visible: -1
+
+Pothole #65 (ID: 29):
+  - Size: Small
+  - Area: 0.50 pixels
+  - Risk: Low
+  - Position: x=132, y=486
+  - Frames visible: -1
+
+Pothole #66 (ID: 16):
+  - Size: Small
+  - Area: 1521.00 pixels
+  - Risk: Low
+  - Position: x=782, y=262
+  - Frames visible: -1
+
+Pothole #67 (ID: 27):
+  - Size: Small
+  - Area: 4021.00 pixels
+  - Risk: Low
+  - Position: x=497, y=473
+  - Frames visible: -1
+
+Pothole #68 (ID: 35):
+  - Size: Small
+  - Area: 2867.50 pixels
+  - Risk: Low
+  - Position: x=758, y=367
+  - Frames visible: -1
+
+Pothole #69 (ID: 36):
+  - Size: Small
+  - Area: 3209.50 pixels
+  - Risk: Low
+  - Position: x=746, y=295
+  - Frames visible: -1
+
+Pothole #70 (ID: 37):
+  - Size: Small
+  - Area: 4088.00 pixels
+  - Risk: Low
+  - Position: x=744, y=249
+  - Frames visible: -1
+
+Pothole #71 (ID: 39):
+  - Size: Small
+  - Area: 2044.00 pixels
+  - Risk: Low
+  - Position: x=464, y=344
+  - Frames visible: -1
+
+Pothole #72 (ID: 40):
+  - Size: Small
+  - Area: 867.00 pixels
+  - Risk: Low
+  - Position: x=281, y=211
+  - Frames visible: -1
+
+Pothole #73 (ID: 42):
+  - Size: Small
+  - Area: 1149.50 pixels
+  - Risk: Low
+  - Position: x=555, y=292
+  - Frames visible: -1
+
+Pothole #74 (ID: 47):
+  - Size: Small
+  - Area: 22.00 pixels
+  - Risk: Low
+  - Position: x=244, y=483
+  - Frames visible: -1
+
+Pothole #75 (ID: 50):
+  - Size: Small
+  - Area: 1268.50 pixels
+  - Risk: Low
+  - Position: x=495, y=220
+  - Frames visible: -1
+
+Pothole #76 (ID: 52):
+  - Size: Small
+  - Area: 1626.50 pixels
+  - Risk: Low
+  - Position: x=16, y=295
+  - Frames visible: -1
+
+Pothole #77 (ID: 58):
+  - Size: Small
+  - Area: 1739.00 pixels
+  - Risk: Low
+  - Position: x=600, y=448
+  - Frames visible: -1
+
+Pothole #78 (ID: 66):
+  - Size: Small
+  - Area: 589.50 pixels
+  - Risk: Low
+  - Position: x=264, y=248
+  - Frames visible: -1
+
+Pothole #79 (ID: 70):
+  - Size: Small
+  - Area: 2510.00 pixels
+  - Risk: Low
+  - Position: x=539, y=265
+  - Frames visible: 4
+
+Pothole #80 (ID: 74):
+  - Size: Small
+  - Area: 4309.50 pixels
+  - Risk: Low
+  - Position: x=694, y=241
+  - Frames visible: 27
+
+Pothole #81 (ID: 76):
+  - Size: Small
+  - Area: 781.50 pixels
+  - Risk: Low
+  - Position: x=584, y=182
+  - Frames visible: 20
+
+Pothole #82 (ID: 77):
+  - Size: Small
+  - Area: 13.50 pixels
+  - Risk: Low
+  - Position: x=600, y=487
+  - Frames visible: 17
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+MODERATE ATTENTION NEEDED: Moderate pothole damage detected
