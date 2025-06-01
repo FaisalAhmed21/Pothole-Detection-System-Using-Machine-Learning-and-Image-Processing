@@ -83,9 +83,8 @@ The system generates `pothole_analysis_report_<timestamp>.txt` containing:
    * Size distribution
    * Risk classification
    * Average pothole area
-3. **Hotspot locations** (high-density areas)
-4. **Road condition severity rating** (0-10 scale)
-5. **Maintenance recommendations**
+3. **Road condition severity rating** (0-10 scale)
+4. **Maintenance recommendations**
 
 ## Configuration
 
