@@ -6,7 +6,6 @@ This project is an advanced computer vision system that detects, tracks, and ana
 
 - Real-time pothole visualization
 - Size and risk classification
-- Safe driving path suggestions
 - Comprehensive analytics dashboard
 - Automated report generation
 
@@ -15,11 +14,9 @@ This project is an advanced computer vision system that detects, tracks, and ana
 - 🎯 **Accurate Detection**: YOLOv8 segmentation for precise pothole identification
 - 📏 **Size Classification**: Small, Medium, Large based on area thresholds
 - ⚠️ **Risk Assessment**: Low, Medium, High based on size and position
-- 🛣️ **Safe Path Calculation**: Real-time driving path suggestions
 - 🔄 **Object Tracking**: Consistent ID assignment across frames
 - 📊 **Dashboard**: Real-time statistics display
 - 📝 **Automated Reporting**: Detailed analysis with severity ratings
-- 🔥 **Hotspot Detection**: Identify problem areas for maintenance
 
 ## Requirements
 
